@@ -1,6 +1,6 @@
 {
   "android": {
-    "latest_version": "1.3.1",
+    "latest_version": "1.3",
     "force_update": false,
     "store_url": "https://play.google.com/store/apps/details?hl=fr&id=com.dawnofgame.kwatfou"
   },
@@ -11,6 +11,7 @@
   },
   "message": "Une nouvelle version est disponible."
 }
+
 
 
 
